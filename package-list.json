@@ -1,7 +1,7 @@
 ﻿{
   "package-id": "fhir.base.template",
   "title": "Base template for FHIR IGs",
-  "canonical": "http://fhir.org/templates/hl7.fhir.template",
+  "canonical": "http://fhir.org/templates/fhir.base.template",
   "introduction": "This is the basic template",
   "list": [
     {
